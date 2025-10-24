@@ -1,0 +1,9 @@
+W = Move Up
+
+S = Move Down
+
+A = Move Left
+
+D = Move Right
+
+X = Exit Game
